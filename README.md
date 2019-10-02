@@ -1,6 +1,6 @@
-# Spam Classifier
+# Spam Detector
 
-At [The University of Helsinki](https://www.helsinki.fi/en) I leveraged [Naive Bayes Classification](https://medium.com/@srishtisawla/introduction-to-naive-bayes-for-classification-baefefb43a2d) in [spamham.py](https://github.com/jr2021/naive_bayes_spam/blob/master/src/spamham.py) to classify emails as spam or *ham*
+At [The University of Helsinki](https://www.helsinki.fi/en) I leveraged [Naive Bayes Classification](https://medium.com/@srishtisawla/introduction-to-naive-bayes-for-classification-baefefb43a2d) in [spamham.py](https://github.com/jr2021/naive_bayes_spam/blob/master/src/spamham.py) to detect spam
 
 ## Languages and Frameworks
 
