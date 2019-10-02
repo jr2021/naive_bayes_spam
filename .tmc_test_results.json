@@ -1,0 +1,1 @@
+[{"name": "test.test_main.MainTest.test_ham", "status": "passed", "message": "", "passed": true, "points": ["SpamHam"], "backtrace": []}, {"name": "test.test_main.MainTest.test_spam", "status": "passed", "message": "", "passed": true, "points": ["SpamHam"], "backtrace": []}]
